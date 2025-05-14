@@ -47,5 +47,26 @@ const archaeologicalSites = [
         longitude: 9.9000,
         description: "Fortaleza em anel da era Viking, um dos cinco locais do Patrimônio Mundial da UNESCO na Dinamarca.",
         image: "https://ciberia.com.br/wp-content/uploads/2017/08/4493a669720d5f31a27fc53a5fd466d7.jpg",
+    },
+    {
+        name: "Vindolanda (Reino Unido)",
+        latitude: 54.9990,
+        longitude: -2.0000,
+        description: "Fortaleza romana e assentamento civil perto da Muralha de Adriano.",
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e8/59/38/aerial-view-of-vindolanda.jpg?w=900&h=500&s=1",
+    },
+    {
+        name: "Trier (Alemanha)",
+        latitude: 49.7499,
+        longitude: 6.6432,
+        description: "Cidade romana mais antiga da Alemanha, com monumentos romanos bem preservados, incluindo um grandioso portão, chamado Porta Nigra.",
+        image: "https://coisadealemao.com.br/wp-content/uploads/2019/10/trier-840701_1920.jpg",
+    },
+    {
+        name: "Sagalassos (Turquia)",
+        latitude: 37.0000,
+        longitude: 30.5000,
+        description: "Antiga cidade romana localizada nas montanhas da Turquia.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Sagalassos_Antik_Kenti_03.jpg",
     }
 ];
